@@ -1,0 +1,26 @@
+{
+    "id": "arabicToChinese",
+    "name": "阿拉伯数字转中文数字",
+    "blocks": [
+        {
+            "opcode": "arabicToChinese",
+            "blockType": "reporter",
+            "text": "将阿拉伯数字转换成中文数字 [NUM]",
+            "arguments": {
+                "NUM": {
+                    "type": "number",
+                    "defaultValue": 0
+                }
+            }
+        }
+    ],
+    "menu": {
+        " NUM": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+    },
+    "url": "https://yourserver.com/extension.js",
+    "tags": ["数字", "转换"],
+    "color": "#4C97FF",
+    "helpUrl": "https://yourserver.com/help.html",
+    "toolbox": "toolbox.xml",
+    "version": "1.0"
+}
