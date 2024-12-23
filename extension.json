@@ -17,10 +17,10 @@
     "menu": {
         " NUM": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
     },
-    "url": "https://yourserver.com/extension.js",
+    "url": "https://wdylyh.github.io/scratch-extension/",
     "tags": ["数字", "转换"],
     "color": "#4C97FF",
-    "helpUrl": "https://yourserver.com/help.html",
+    "helpUrl": "https://wdylyh.github.io/scratch-extension/",
     "toolbox": "toolbox.xml",
     "version": "1.0"
 }
